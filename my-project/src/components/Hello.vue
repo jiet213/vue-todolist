@@ -79,7 +79,6 @@ ul {
 
 .hello {
   width: 550px;
-  margin: 0 auto;
 }
 
 .todo-list li {
@@ -90,7 +89,6 @@ ul {
 .todo-list li label {
     word-break: break-all;
     padding: 15px 60px 15px 15px;
-    margin-left: 45px;
     display: block;
     line-height: 1.2;
     transition: color 0.4s;
@@ -101,7 +99,7 @@ ul {
     border: 0;
     position: absolute;
     top: 0;
-    right: 10px;
+    left: 85px;
     bottom: 0;
     width: 40px;
     height: 40px;
